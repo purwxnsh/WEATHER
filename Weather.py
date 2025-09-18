@@ -77,7 +77,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🌦 Weather Dashboard")
+st.title("🌦️ Weather Dashboard 🌦️")
 
 city = st.text_input("Enter city name", "Kharar")
 
