@@ -6,8 +6,8 @@ import io
 
 
 st.set_page_config(
-    page_title="WEATHER PROJECT | Major Project",
-    page_icon="✨",
+    page_title="WEATHER PROJECT | PURWANSH CHAUDHARY",
+    page_icon="🌦️",
     layout="centered")
 
 st.markdown("""
