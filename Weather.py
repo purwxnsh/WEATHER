@@ -8,7 +8,7 @@ import io
 st.set_page_config(
     page_title="WEATHER PROJECT | Major Project",
     page_icon="✨",
-    layout="centered"
+    layout="centered")
 
   st.markdown("""
     <style>
