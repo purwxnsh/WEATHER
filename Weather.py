@@ -10,7 +10,7 @@ st.set_page_config(
     page_icon="✨",
     layout="centered")
 
-  st.markdown("""
+st.markdown("""
     <style>
         body {
             background: linear-gradient(135deg, #667eea, #764ba2);
