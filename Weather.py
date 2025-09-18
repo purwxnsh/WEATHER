@@ -6,7 +6,7 @@ import io
 
 
 st.set_page_config(
-    page_title="WEATHER PROJECT | PURWANSH CHAUDHARY",
+    page_title="WEATHER | PURWANSH CHAUDHARY",
     page_icon="🌦️",
     layout="centered")
 
