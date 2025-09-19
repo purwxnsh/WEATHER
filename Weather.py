@@ -82,7 +82,7 @@ st.title("🌦️ Weather Dashboard 🌦️")
 city = st.text_input("Enter city name", "Kharar")
 
 if st.button("Get Weather"):
-    api_key = "YOUR_API_KEY"  # <-- Replace with your OpenWeatherMap API key
+    api_key = "c09745b7cdff03cb31acd2db0b2f36b8"  # <-- Replace with your OpenWeatherMap API key
     url = f"http://api.openweathermap.org/data/2.5/forecast?q={city}&appid={api_key}&units=metric"
 
     response = requests.get(url)
